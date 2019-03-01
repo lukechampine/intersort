@@ -37,7 +37,7 @@ However, the results of this may vary, and in general are unpredictable; see
 https://github.com/golang/go/issues/30398.
 
 
-## Advanced praise for intersort:
+## Advance praise for intersort:
 
 > I tend to think that exposing the comparison function would be an attractive nuisance. - Ian Lance Taylor
 
