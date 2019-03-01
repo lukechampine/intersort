@@ -16,7 +16,7 @@ anything. May the Go maintainers have mercy on my soul.
 ints := []int{3, 1, 2}
 intersort.Sort(ints) // [1, 2, 3]
 
-strs := []string{"b", "c", "a")
+strs := []string{"b", "c", "a"}
 intersort.Sort(strs) // [a, b, c]
 
 type Point struct {
@@ -37,7 +37,7 @@ However, the results of this may vary, and in general are unpredictable; see
 https://github.com/golang/go/issues/30398.
 
 
-## Advance Praise for intersort:
+## Advanced praise for intersort:
 
 > I tend to think that exposing the comparison function would be an attractive nuisance. - Ian Lance Taylor
 
