@@ -10,6 +10,8 @@ and parsing the result.
 In other words, this package is an abomination and should not be used for
 anything. May the Go maintainers have mercy on my soul.
 
+**NOTE: This package requires Go 1.12.1.**
+
 ## Examples:
 
 ```go
